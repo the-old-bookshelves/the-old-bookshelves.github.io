@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[236],{4236:(B,l,o)=>{o.r(l),o.d(l,{BooksModule:()=>M});var s=o(6814),a=o(8234),E=o(95),u=o(4946);let M=(()=>{class n{}return n.\u0275fac=function(_){return new(_||n)},n.\u0275mod=u.oAB({type:n}),n.\u0275inj=u.cJS({imports:[s.ez,a.Bz,E.u5]}),n})()}}]);
