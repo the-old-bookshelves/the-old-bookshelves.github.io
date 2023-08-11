@@ -41,9 +41,6 @@ THE SOFTWARE.
 ngx-bootstrap/carousel
 MIT
 
-ngx-bootstrap/rating
-MIT
-
 ngx-bootstrap/utils
 MIT
 
